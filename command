@@ -1,4 +1,4 @@
 node -v
-node <filename>
+npm -v
 
-npm init -y
+node <filename>
